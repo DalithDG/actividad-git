@@ -1,0 +1,6 @@
+Matemáticas — 5.0
+Desarrollo de Software — 4.5
+Ecuaciones Diferenciales — 4.2
+Algebra Lineal — 4.0
+Base de datos — 4.3
+Ciencias Datos — 4.1
